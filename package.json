@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server --open"
   },
   "devDependencies": {
     "ts-loader": "^6.2.1",
